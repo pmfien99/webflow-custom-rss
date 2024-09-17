@@ -1,0 +1,2 @@
+# Ignore node_modules (in case you have any npm packages installed)
+node_modules/

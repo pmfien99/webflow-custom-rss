@@ -1,0 +1,18 @@
+{
+  "name": "webflow-custom-rss",
+  "version": "1.0.0",
+  "description": "Custom RSS Feed for Webflow Websites",
+  "main": "createWebhook.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1691.0",
+    "dotenv": "^16.4.5",
+    "sanitize-html": "^2.13.0",
+    "xml2js": "^0.6.2"
+  }
+}
